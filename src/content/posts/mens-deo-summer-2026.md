@@ -8,26 +8,31 @@ products:
     reviewAverage: 4.4
     reviewCount: 2137
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru6ln.w2qwk599.g00ru6ln.w2qwldd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigh-touch%2Fqdeo-0001-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigh-touch%2Fi%2F10000044%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/high-touch/cabinet/q01/q01_thum1_v7.jpg?_ex=400x400"
   - name: "勉強堂 デオドラントクリーム 50g"
     price: 1800
     reviewAverage: 4.38
     reviewCount: 1307
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq6xn.w2qwk47f.g00pq6xn.w2qwl171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenkyo%2F4580392000254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenkyo%2Fi%2F10145514%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benkyo/cabinet/02562713/images/4580392000254banner2.jpg?_ex=400x400"
   - name: "クリニーク フォーメン アンティパースパイラント デオドラント ロールオンN 75mL"
     price: 4950
     reviewAverage: 4.72
     reviewCount: 681
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s54yn.w2qwk9cb.g00s54yn.w2qwlc6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260730_bd_p/6933.jpg?_ex=400x400"
   - name: "デーモン ボディソープ"
     price: 2980
     reviewAverage: 4.68
     reviewCount: 237
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbnjn.w2qwk602.g00tbnjn.w2qwl74a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenjaminstyle%2F0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenjaminstyle%2Fi%2F10000001%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benjaminstyle/cabinet/daemonbodysoapnew/demon_01.jpg?_ex=400x400"
   - name: "サラーリ ヌーディワキフィルムエア 20枚入×2箱"
     price: 2200
     reviewAverage: 4.64
     reviewCount: 190
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfy7n.w2qwk4cd.g00rfy7n.w2qwl26b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylife-shop%2Fhl10000209-a-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylife-shop%2Fi%2F10002708%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happylife-shop/cabinet/06010896/imgrc0093512176.jpg?_ex=400x400"
 ---
 
 夏本番になると、電車やオフィス、人との距離が近い場面で気になるのが脇汗やニオイのケア。「制汗剤って種類が多くてどれを選べばいいかわからない」という方も多いのではないでしょうか。
@@ -52,6 +57,8 @@ products:
 
 ### 1位：クデオ ジェルクリーム 30mL
 
+[![クデオ ジェルクリーム 30mL](https://thumbnail.image.rakuten.co.jp/@0_mall/high-touch/cabinet/q01/q01_thum1_v7.jpg?_ex=400x400)](https://hb.afl.rakuten.co.jp/hgc/g00ru6ln.w2qwk599.g00ru6ln.w2qwldd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigh-touch%2Fqdeo-0001-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigh-touch%2Fi%2F10000044%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
+
 価格: ¥3,300　レビュー: ★4.4（2,137件）
 
 今回紹介する中でもっともレビュー件数が多く、圧倒的な支持を集めているジェルクリームタイプの制汗剤です。商品名には「強力」「わきが対策」といった記載があり、脇だけでなく足のニオイ対策にも使えるとされています。子供にも使えるとうたわれている点も特徴で、家族で共用しやすいアイテムを探している方にも向いています。ジェルタイプなのでベタつきにくく、朝のケアに取り入れやすいのもポイントです。
@@ -59,6 +66,8 @@ products:
 [▼ 楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00ru6ln.w2qwk599.g00ru6ln.w2qwldd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigh-touch%2Fqdeo-0001-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigh-touch%2Fi%2F10000044%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
 
 ### 2位：勉強堂 デオドラントクリーム 50g
+
+[![勉強堂 デオドラントクリーム 50g](https://thumbnail.image.rakuten.co.jp/@0_mall/benkyo/cabinet/02562713/images/4580392000254banner2.jpg?_ex=400x400)](https://hb.afl.rakuten.co.jp/hgc/g00pq6xn.w2qwk47f.g00pq6xn.w2qwl171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenkyo%2F4580392000254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenkyo%2Fi%2F10145514%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
 
 価格: ¥1,800　レビュー: ★4.38（1,307件）
 
@@ -68,6 +77,8 @@ products:
 
 ### 3位：クリニーク フォーメン アンティパースパイラント デオドラント ロールオンN 75mL
 
+[![クリニーク フォーメン ロールオンN 75mL](https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260730_bd_p/6933.jpg?_ex=400x400)](https://hb.afl.rakuten.co.jp/hgc/g00s54yn.w2qwk9cb.g00s54yn.w2qwlc6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
+
 価格: ¥4,950　レビュー: ★4.72（681件）
 
 今回紹介する5点の中で、レビュー評価がもっとも高い商品です。世界的に知られる化粧品ブランド・クリニークのメンズラインで展開されているロールオンタイプの制汗剤で、75mLとたっぷり使える容量になっています。海外の有名ブランドという安心感に加え、ブランドならではの上質な使用感を求める方や、自分用だけでなくギフトとしての購入を考えている方にも向いている一本です。ロールオンタイプは狙った部分にピンポイントで塗布しやすいのも利点です。
@@ -76,6 +87,8 @@ products:
 
 ### 4位：デーモン ボディソープ
 
+[![デーモン ボディソープ](https://thumbnail.image.rakuten.co.jp/@0_mall/benjaminstyle/cabinet/daemonbodysoapnew/demon_01.jpg?_ex=400x400)](https://hb.afl.rakuten.co.jp/hgc/g00tbnjn.w2qwk602.g00tbnjn.w2qwl74a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenjaminstyle%2F0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenjaminstyle%2Fi%2F10000001%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
+
 価格: ¥2,980　レビュー: ★4.68（237件）
 
 ここまでの3商品はクリーム・ロールオンといった「塗る」ケアでしたが、こちらは入浴時に使うボディソープです。商品名に「楽天1位獲得」との記載があり、脇や足裏など体全体のニオイ・汗ケアを想定して作られています。保湿成分も配合されているとのことで、洗浄と保湿を同時に済ませたい方に向いています。部分的なケアだけでなく、全身のニオイ対策を毎日の入浴習慣に組み込みたいという方はこちらから検討してみるとよいでしょう。プレゼントとして選ばれることもある商品です。
@@ -83,6 +96,8 @@ products:
 [▼ 楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tbnjn.w2qwk602.g00tbnjn.w2qwl74a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenjaminstyle%2F0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenjaminstyle%2Fi%2F10000001%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
 
 ### 5位：サラーリ ヌーディワキフィルムエア 20枚入×2箱
+
+[![サラーリ ヌーディワキフィルムエア](https://thumbnail.image.rakuten.co.jp/@0_mall/happylife-shop/cabinet/06010896/imgrc0093512176.jpg?_ex=400x400)](https://hb.afl.rakuten.co.jp/hgc/g00rfy7n.w2qwk4cd.g00rfy7n.w2qwl26b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylife-shop%2Fhl10000209-a-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylife-shop%2Fi%2F10002708%2F&rafcid=wsc_i_is_2d3e29a2-5c3f-4a53-a0d4-8419ff728d55)
 
 価格: ¥2,200　レビュー: ★4.64（190件）
 

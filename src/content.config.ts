@@ -15,6 +15,7 @@ const posts = defineCollection({
           reviewAverage: z.number(),
           reviewCount: z.number(),
           affiliateUrl: z.string().url(),
+          imageUrl: z.string().url().optional(),
         }),
       )
       .default([]),
