@@ -1,0 +1,51 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+}
+
+const { title, description, pubDate } = Astro.props;
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <header>
+      <a href="/blog">← 記事一覧</a>
+    </header>
+    <main>
+      <p class="pr-notice">
+        本記事はPR・アフィリエイト広告を含みます。価格・在庫状況は変動するため購入前に商品ページをご確認ください。
+      </p>
+      <h1>{title}</h1>
+      <p class="pubdate">{pubDate.toLocaleDateString('ja-JP')}</p>
+      <slot />
+    </main>
+    <style>
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 1.5rem;
+        font-family: sans-serif;
+        line-height: 1.7;
+      }
+      .pr-notice {
+        background: #fff3cd;
+        border: 1px solid #ffe08a;
+        padding: 0.6rem 0.9rem;
+        border-radius: 6px;
+        font-size: 0.85rem;
+      }
+      .pubdate {
+        color: #666;
+        font-size: 0.85rem;
+      }
+    </style>
+  </body>
+</html>

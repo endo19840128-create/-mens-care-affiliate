@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>記事一覧</title>
+  </head>
+  <body>
+    <main>
+      <h1>記事一覧</h1>
+      <ul>
+        {
+          posts.map((post) => (
+            <li>
+              <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+              <p>{post.data.description}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </main>
+    <style>
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 1.5rem;
+        font-family: sans-serif;
+      }
+      li {
+        margin-bottom: 1.2rem;
+      }
+    </style>
+  </body>
+</html>
