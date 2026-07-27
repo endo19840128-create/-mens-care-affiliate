@@ -2,7 +2,7 @@
 // userId取得（.envのLINE_USER_ID設定）が終わったら、この関数とLINE側のWebhook設定は削除してよい。
 // 個人利用の一時的なユーティリティのため、署名検証は行っていない。
 
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   if (req.method !== "POST") {
     res.status(200).send("OK");
     return;
@@ -28,4 +28,4 @@ module.exports = async (req, res) => {
   }
 
   res.status(200).send("OK");
-};
+}
