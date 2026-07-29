@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mens-care-affiliate.vercel.app/sitemap-index.xml
